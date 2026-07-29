@@ -4,7 +4,7 @@
 NLP model that classifies Amazon product reviews 
 as Positive or Negative using Machine Learning.
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 - Python
 - Scikit-learn
 - TF-IDF Vectorization
