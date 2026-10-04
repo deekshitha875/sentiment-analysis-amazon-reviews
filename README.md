@@ -2,7 +2,7 @@
 
 ## 📌 About
 NLP model that classifies Amazon product reviews 
-as Positive or Negative using Machine Learning.
+as Positive or Negative using Machine Learning
 
 ## 🛠️ Technologies Used 
 - Python
